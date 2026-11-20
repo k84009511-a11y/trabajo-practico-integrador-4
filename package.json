@@ -1,0 +1,16 @@
+{
+  "name": "tp4-investigacion-typescript",
+  "version": "1.0.0",
+  "description": "TP 4: Investigación en TypeScript",
+  "type": "commonjs",
+  "scripts": {
+    "tema1": "tsx src/01-que-es-typescript.ts",
+    "tema2": "tsx src/02-proyecto-y-ejecucion.ts",
+    "tema3": "tsx src/03-tipos-basicos.ts",
+    "tema4": "tsx src/04-funciones.ts",
+    "tema5": "tsx src/05-interfaces-y-type.ts",
+    "tema6": "tsx src/06-enums-y-literales.ts",
+    "check": "tsc --noEmit",
+    "build": "tsc"
+  }
+}
